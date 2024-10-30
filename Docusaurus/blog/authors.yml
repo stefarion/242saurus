@@ -1,3 +1,30 @@
+stefarion:
+  name: Stefanus Tan Jaya
+  title: Honkai Star Rail Player
+  url: https://github.com/stefarion
+  image_url: https://static.wikia.nocookie.net/houkai-star-rail/images/1/17/Profile_Picture_Firefly_-_Vision.png
+  page: true
+  socials:
+    github: stefarion
+
+HamletJr:
+  name: Joshua Montolalu
+  title: Honkai Star Rail Player
+  url: https://github.com/HamletJr
+  image_url: https://static.wikia.nocookie.net/houkai-star-rail/images/8/88/Profile_Picture_Acheron_-_Ambush.png
+  page: true
+  socials:
+    github: HamletJr
+
+EdPootis:
+  name: Edmond Christian
+  title: Honkai Star Rail Player
+  url: https://github.com/EdPootis
+  image_url: https://static.wikia.nocookie.net/houkai-star-rail/images/5/56/Profile_Picture_March_7th_-_Welcome.png
+  page: true
+  socials:
+    github: EdPootis
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
